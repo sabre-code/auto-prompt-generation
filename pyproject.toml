@@ -1,7 +1,5 @@
 [build-system]
-requires = ["setuptools>=4Homepage = "https://github.com/sabre-code/auto-prompt-generation"
-"Bug Reports" = "https://github.com/sabre-code/auto-prompt-generation/issues"
-"Source" = "https://github.com/sabre-code/auto-prompt-generation" "wheel", "setuptools_scm[toml]>=6.2"]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -41,9 +39,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sulaimanmutawalli/auto-prompt-generation"
-"Bug Reports" = "https://github.com/sulaimanmutawalli/auto-prompt-generation/issues"
-"Source" = "https://github.com/sulaimanmutawalli/auto-prompt-generation"
+Homepage = "https://github.com/sabre-code/auto-prompt-generation"
+"Bug Reports" = "https://github.com/sabre-code/auto-prompt-generation/issues"
+"Source" = "https://github.com/sabre-code/auto-prompt-generation"
 
 [project.scripts]
 auto-prompt-gen = "auto_prompt_generation.cli:main"
