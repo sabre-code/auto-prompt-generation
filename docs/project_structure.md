@@ -63,7 +63,7 @@ auto-prompt-generation/
 pip install -e .
 
 # Install from git repository
-pip install git+https://github.com/yourusername/auto-prompt-generation.git
+pip install git+https://github.com/sabre-code/auto-prompt-generation.git
 
 # Install with development dependencies
 pip install -e .[dev]

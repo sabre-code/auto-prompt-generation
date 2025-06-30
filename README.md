@@ -17,7 +17,7 @@ A powerful DSPy-based system for automatically generating optimized prompts base
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/auto-prompt-generation.git
+git clone https://github.com/sabre-code/auto-prompt-generation.git
 cd auto-prompt-generation
 
 # Install the package
@@ -27,7 +27,7 @@ pip install -e .
 ### Direct Installation from Git
 
 ```bash
-pip install git+https://github.com/yourusername/auto-prompt-generation.git
+pip install git+https://github.com/sabre-code/auto-prompt-generation.git
 ```
 
 ## Quick Start
@@ -226,6 +226,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/auto-prompt-generation/issues) page
+1. Check the [Issues](https://github.com/sabre-code/auto-prompt-generation/issues) page
 2. Create a new issue with detailed information
-3. For general questions, start a [Discussion](https://github.com/yourusername/auto-prompt-generation/discussions)
+3. For general questions, start a [Discussion](https://github.com/sabre-code/auto-prompt-generation/discussions)

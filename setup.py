@@ -29,7 +29,7 @@ setup(
     description="A DSPy-based system for automatically generating optimized prompts",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/sulaimanmutawalli/auto-prompt-generation",
+    url="https://github.com/sabre-code/auto-prompt-generation",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -62,8 +62,8 @@ setup(
     },
     keywords="dspy, prompt, generation, ai, nlp, optimization",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/auto-prompt-generation/issues",
-        "Source": "https://github.com/yourusername/auto-prompt-generation",
-        "Documentation": "https://github.com/yourusername/auto-prompt-generation#readme",
+        "Bug Reports": "https://github.com/sabre-code/auto-prompt-generation/issues",
+        "Source": "https://github.com/sabre-code/auto-prompt-generation",
+        "Documentation": "https://github.com/sabre-code/auto-prompt-generation#readme",
     },
 )
