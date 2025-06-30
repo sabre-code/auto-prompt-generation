@@ -1,0 +1,11 @@
+include README.md
+include LICENSE
+include requirements.txt
+include pyproject.toml
+recursive-include auto_prompt_generation *.py
+recursive-include tests *.py
+recursive-include examples *.py
+recursive-include docs *.md *.rst
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .DS_Store
